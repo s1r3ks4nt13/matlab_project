@@ -53,10 +53,10 @@ DataInput:
  ├── Matice.txt             % generated matrices
 
 DataOutput:
- ├── MaticeVysledky.txt     % results of matrix operations
+- ├── MaticeVysledky.txt     % results of matrix operations
  
- ├── VystupPostupnisti.txt  % calculations for graphs
+- ├── VystupPostupnisti.txt  % calculations for graphs
 
 
 👥 Authors:
-Florence Team:
+  Florence Team
