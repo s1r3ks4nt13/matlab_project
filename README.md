@@ -44,16 +44,15 @@ Tento modul:
 - Všetky výpočty vypíše do súboru VystupPostupnisti.txt.
 
 
-📂 File structure:
-SVP_Menu.m
+📁 SVP_Menu.m
 
-DataInput/
-├── SVP-Statistika.xlsx     % main Excel file for working with statistics
-├── Matice.txt              % generated matrices
+├── 📂 DataInput/
+   ├── SVP-Statistika.xlsx     # main Excel file for working with statistics
+   └── Matice.txt              # generated matrices
+├── 📂 DataOutput/
+   ├── MaticeVysledky.txt      # results of matrix operations
+   └── VystupPostupnisti.txt   # calculations for graphs
 
-DataOutput/
-├── MaticeVysledky.txt      % results of matrix operations
-├── VystupPostupnisti.txt   % calculations for graphs
 
 
 👥 Authors:
