@@ -47,8 +47,8 @@ Tento modul:
 📁 SVP_Menu.m
 
 📂 DataInput:
-    SVP-Statistika.xlsx      main Excel file for working with statistics 
-    Matice.txt               generated matrices 
+SVP-Statistika.xlsx      main Excel file for working with statistics;
+Matice.txt               generated matrices 
     
 📂 DataOutput:
     MaticeVysledky.txt       results of matrix operations
